@@ -15,6 +15,8 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 
 ## Summary
 
+In this lab we implemented a D-flip-flop, T-flip-flop and JK-flip-flop. By using posedge and a procedural always block, we first implemented the simple D-flip-flop block, then we called that dff file for the jkff and tff. As we programmed it to the basys board, we ran into problems with generating the bitstream, so we had to quickly remake the project to get it running. 
+
 ## Lab Questions
 
 ### What is difference between edge and level sensitive circuits?
